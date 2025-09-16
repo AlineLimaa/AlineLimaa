@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-Me chamo Aline Brito Lima, tenho 30 anos e sou natural da Bahia. Engenheira Eletricista em transição de carreira para **Ciência de Dados**. Atualmente, finalizei meu Curso de Ciência de Dados na DNC e pretendo dar início a pós graduação em Engenharia de Dados na FIAP. Sou uma pessoa com grande interesse pela tecnologia e inovação, busco sempre aprender e aplicar novas ferramentas. Você pode me encontrar também no [Linkedin](www.linkedin.com/in/aline-brito-lima-618297181).
+Me chamo Aline Brito Lima, tenho 30 anos e sou natural da Bahia. Engenheira Eletricista em transição de carreira para **Ciência de Dados**. Atualmente, finalizei meu Curso de Ciência de Dados na DNC e pretendo dar início a pós graduação em Engenharia de Dados na FIAP. Sou uma pessoa com grande interesse pela tecnologia e inovação, busco sempre aprender e aplicar novas ferramentas.
 
 
 
