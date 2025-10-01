@@ -214,8 +214,12 @@ Me chamo Aline Brito Lima, tenho 30 anos e sou natural da Bahia. Engenheira Elet
 ---
 
 
-<p>
+---
+
 ## 📂 Projetos em Destaque
+
+---
+
 
 - 🛒 **Fraude em Lojas Físicas**  
   Algoritmo de detecção de fraudes em uma rede de ~200 lojas de calçados.  
