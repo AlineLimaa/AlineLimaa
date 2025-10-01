@@ -213,25 +213,19 @@ Me chamo Aline Brito Lima, tenho 30 anos e sou natural da Bahia. Engenheira Elet
 
 ---
 
-
----
-
 ## 📂 Projetos em Destaque
 
----
+### 🛍️ Fraude em Lojas Físicas
+Algoritmo de detecção de fraudes em uma rede de ~200 lojas de calçados.  
+🔗 [Repositório](#)
 
+### 🌾 Dashboard do Agronegócio
+Análise de exportações com base em NCMs e CNAE, integrado ao Power BI.  
+🔗 [Repositório](#)
 
-- 🛒 **Fraude em Lojas Físicas**  
-  Algoritmo de detecção de fraudes em uma rede de ~200 lojas de calçados.  
-  [🔗 Repositório](#)
-
-- 🌱 **Dashboard do Agronegócio**  
-  Análise de exportações com base em NCMs e CNAE, integrado a Power BI.  
-  [🔗 Repositório](#)
-
-- 🤖 **Oscar AI Agent**  
-  Agente de IA generativa para varejo, com LangChain, n8n e PostgreSQL.  
-  [🔗 Repositório](#)
+### 🤖 Oscar AI Agent
+Agente de IA generativa para varejo, com LangChain, n8n e PostgreSQL.  
+🔗 [Repositório](#)
 
 ---
 
