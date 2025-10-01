@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Aline Lima
+# 👩🏻‍💻 Aline Lima - Perfil ainda em construção
 
 **`Cientista de Dados`**
 
