@@ -26,11 +26,7 @@ Me chamo Aline Brito Lima, tenho 30 anos e sou natural da Bahia. Engenheira Elet
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="R" title="R" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
-<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="left" alt="MySql" title="MySql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="SQLite" title="SQLite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align="left" alt="VSCode" title="VSCode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
@@ -42,8 +38,6 @@ Me chamo Aline Brito Lima, tenho 30 anos e sou natural da Bahia. Engenheira Elet
 <img align="left" alt="Excel" title="Excel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg"/>
 <img align="left" alt="PowerBI" title="PowerBI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"/>
 <img align="left" alt="Kubernetes" title="Kubernetes" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg"/>
-<img align="left" alt="GCP" title="GCP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
-<img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
 <img align="left" alt="TensorFlow" title="TensorFlow" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
 
 <br/><br/><br/>
@@ -67,19 +61,7 @@ Me chamo Aline Brito Lima, tenho 30 anos e sou natural da Bahia. Engenheira Elet
 
 ---
 
-## 📂 Projetos em Destaque
 
-### 🛍️ Fraude em Lojas Físicas  
-Algoritmo de detecção de fraudes em uma rede de ~200 lojas de calçados.  
-🔗 [Repositório](#)
-
-### 🌾 Dashboard do Agronegócio  
-Análise de exportações com base em NCMs e CNAE, integrado ao Power BI.  
-🔗 [Repositório](#)
-
-### 🤖 Oscar AI Agent  
-Agente de IA generativa para varejo, com LangChain, n8n e PostgreSQL.  
-🔗 [Repositório](#)
 
 ---
 
