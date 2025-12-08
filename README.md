@@ -1,8 +1,7 @@
-# 👩🏻‍💻 Aline Lima - Perfil ainda em construção
+# 👩🏻‍💻 Aline Lima
 
-**`Cientista de Dados`**
-
-Me chamo Aline Brito Lima, tenho 30 anos e sou natural da Bahia. Engenheira Eletricista em transição de carreira para **Ciência de Dados**. Atualmente, finalizei meu Curso de Ciência de Dados na DNC e pretendo continuar estudando e me desenvolvendo. Sou uma pessoa com grande interesse pela tecnologia e inovação, busco sempre aprender e aplicar novas ferramentas.
+Sou **`Cientista de Dados`**, atuando com análise, visualização e modelagem estatística para resolver problemas reais de negócio. Trabalho com ferramentas modernas de análise e machine learning, sempre buscando entregar soluções claras, interpretáveis e com impacto prático.
+Antes de ingressar na área de dados, construí minha base técnica como Engenheira Eletricista, experiência que fortaleceu meu raciocínio lógico, organização e visão analítica.
 
 <p align="left">
     <a href="https://github.com/AlineLimaa?tab=repositories&sort=stargazers">
