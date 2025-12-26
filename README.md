@@ -1,7 +1,6 @@
 # 👩🏻‍💻 Aline Lima
 
-Sou **`Cientista de Dados`**, atuando com análise, visualização e modelagem estatística para resolver problemas reais de negócio. Trabalho com ferramentas modernas de análise e machine learning, sempre buscando entregar soluções claras, interpretáveis e com impacto prático.
-Antes de ingressar na área de dados, construí minha base técnica como Engenheira Eletricista, experiência que fortaleceu meu raciocínio lógico, organização e visão analítica.
+Sou **Cientista de Dados Júnior**, com foco em **Machine Learning aplicado**, análise de dados e construção de modelos preditivos para resolver problemas reais de negócio. Atuo no desenvolvimento de **pipelines de dados**, desde a coleta, limpeza e análise exploratória até o **treinamento, avaliação e interpretação de modelos de machine learning**. Minha base técnica foi construída na **Engenharia Elétrica**, experiência que fortaleceu meu raciocínio lógico, organização e pensamento analítico, habilidades essenciais para atuar com dados e modelos.
 
 <p align="left">
     <a href="https://github.com/AlineLimaa?tab=repositories&sort=stargazers">
@@ -19,52 +18,43 @@ Antes de ingressar na área de dados, construí minha base técnica como Engenhe
         />
     </a>
 </p>
+
 <div style="display: inline-block"> 
-  <a href="https://www.linkedin.com/in/alinebritolima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:line.engeletricista[at]gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alinebritolima" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:line.engeletricista@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Linguagens e Ferramentas
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+<img align="left" alt="NumPy" title="NumPy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
+<img align="left" alt="Jupyter" title="Jupyter Notebook" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align="left" alt="VSCode" title="VSCode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="Jupyter" title="Jupyter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
-<img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="Numpy" title="Numpy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 <img align="left" alt="Excel" title="Excel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg"/>
-<img align="left" alt="PowerBI" title="PowerBI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"/>
-<img align="left" alt="Kubernetes" title="Kubernetes" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg"/>
-<img align="left" alt="TensorFlow" title="TensorFlow" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
+<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg"/>
 
 <br/><br/><br/>
 
 ---
 
-### 📊 Estatísticas
+## 📌 Áreas de Interesse
 
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Alinelimaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alinelimaa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
----
-
-
+- Análise Exploratória de Dados (EDA)
+- Limpeza e tratamento de dados
+- Visualização de dados e dashboards
+- Estatística aplicada
+- SQL para análise de dados
+- Projetos de dados end-to-end
 
 ---
 
@@ -72,8 +62,8 @@ Antes de ingressar na área de dados, construí minha base técnica como Engenhe
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alinebritolima)  
 - 📧 line.engeletricista@gmail.com  
-- 🖥️ [Portfólio](#)
+- 🖥️ Portfólio (em construção)
 
 ---
 
-⭐ Se gostou dos meus projetos, não esqueça de dar um **Star** ⭐
+⭐ Se gostou dos meus projetos, considere deixar um **Star** ⭐
