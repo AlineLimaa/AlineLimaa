@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Aline Lima
 
-Sou **Cientista de Dados Júnior**, com foco em **Machine Learning aplicado**, análise de dados e construção de modelos preditivos para resolução de problemas reais de negócio. Atuo em projetos que envolvem todo o **ciclo de dados**, desde a coleta, limpeza e análise exploratória até o **treinamento, avaliação e interpretação de modelos de machine learning**.
-Minha base técnica foi construída na **Engenharia Elétrica**, experiência que fortaleceu meu raciocínio lógico, organização e pensamento analítico, competências essenciais para atuar com dados e modelos preditivos.
-Tenho experiência prática com **Machine Learning supervisionado e não supervisionado**, incluindo regressão linear e logística, KNN, árvores de decisão, clusterização e séries temporais, utilizando **scikit-learn** e métricas para avaliação de desempenho.
+Sou Engenheira Eletricista com atuação em Engenharia de Confiabilidade, análise de falhas e gestão de dados técnicos, aplicando métodos estatísticos e Ciência de Dados para suporte à tomada de decisão em sistemas elétricos e ambientes industriais.
+
+Experiência em análise de desempenho operacional, indicadores de confiabilidade, gestão de ativos e integração de dados em sistemas corporativos (SAP). Conhecimentos em Python, análise estatística, Power BI e fundamentos de Machine Learning aplicados à confiabilidade e manutenção de sistemas elétricos.
 
 <p align="left">
     <a href="https://github.com/AlineLimaa?tab=repositories&sort=stargazers">
