@@ -1,8 +1,6 @@
 # 👩🏻‍💻 Aline Lima
 
-Sou Engenheira Eletricista com atuação em Engenharia de Confiabilidade, análise de falhas e gestão de dados técnicos, aplicando métodos estatísticos e Ciência de Dados para suporte à tomada de decisão em sistemas elétricos e ambientes industriais.
-
-Experiência em análise de desempenho operacional, indicadores de confiabilidade, gestão de ativos e integração de dados em sistemas corporativos (SAP). Conhecimentos em Python, análise estatística, Power BI e fundamentos de Machine Learning aplicados à confiabilidade e manutenção de sistemas elétricos.
+Unindo experiência hospitalar e engenharia para transformar dados em decisões. Em transição para Ciência de Dados com foco em indicadores de saúde, qualidade de dados e eficiência operacional.
 
 <p align="left">
     <a href="https://github.com/AlineLimaa?tab=repositories&sort=stargazers">
